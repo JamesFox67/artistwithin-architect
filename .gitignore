@@ -1,0 +1,17 @@
+# OpenClaw runtime state — machine-specific, not source-controlled
+.openclaw/
+.pi/
+
+# Claude Code local settings — machine-specific
+.claude/
+
+# Secrets
+.env
+*.env
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
